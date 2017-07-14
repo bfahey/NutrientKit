@@ -4,6 +4,10 @@
 
 Search over 200,000 food and nutrient reports provided by the USDA.
 
+| Food Search | Food Reports |
+|-------------|--------------|
+|![Food Search](NutrientKitExample/FoodSearch.png)|![Food Report](NutrientKitExample/FoodReport.png)|
+
 ## Usage
 
 NutrientKit (`NutrientKit.framework`) integrates with the [USDA National Nutrient Database for Standard Reference](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/usda-national-nutrient-database-for-standard-reference/) via the [USDA NDB API](https://ndb.nal.usda.gov/ndb/doc/index). Food composition data is in the public domain, there is no copyright and no permission is needed for its use.
