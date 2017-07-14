@@ -85,8 +85,6 @@ class FoodSearchViewController: UITableViewController, NutrientStoreContainer {
                 DispatchQueue.main.async {
                     UIApplication.shared.isNetworkActivityIndicatorVisible = false
                     self.tableView.reloadData()
-                    
-                    if (self.filteredItems.count == 0)
                 }
                 
             } else if let error = error {

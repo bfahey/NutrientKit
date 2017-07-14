@@ -26,6 +26,7 @@
 		1A9D0ABC1F190E60002F3F1B /* GroupBy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A9D0ABB1F190E60002F3F1B /* GroupBy.swift */; };
 		1A9D0ABE1F190FF0002F3F1B /* OrderedDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A9D0ABD1F190FF0002F3F1B /* OrderedDictionary.swift */; };
 		1A9D0AC41F1913C4002F3F1B /* NutrientStoreContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A9D0AC31F1913C4002F3F1B /* NutrientStoreContainer.swift */; };
+		1A9D0AC71F19269C002F3F1B /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 1A9D0AC61F19269C002F3F1B /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +75,7 @@
 		1A9D0ABB1F190E60002F3F1B /* GroupBy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroupBy.swift; sourceTree = "<group>"; };
 		1A9D0ABD1F190FF0002F3F1B /* OrderedDictionary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderedDictionary.swift; sourceTree = "<group>"; };
 		1A9D0AC31F1913C4002F3F1B /* NutrientStoreContainer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NutrientStoreContainer.swift; sourceTree = "<group>"; };
+		1A9D0AC61F19269C002F3F1B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 		1A95B71D1F190C9F00576F1B = {
 			isa = PBXGroup;
 			children = (
+				1A9D0AC61F19269C002F3F1B /* README.md */,
 				1A95B7281F190C9F00576F1B /* NutrientKitExample */,
 				1A95B7411F190CA900576F1B /* NutrientKit */,
 				1A95B7271F190C9F00576F1B /* Products */,
@@ -265,6 +268,7 @@
 				1A95B7621F190D2F00576F1B /* FoodReportViewController.swift in Sources */,
 				1A95B7611F190D2F00576F1B /* FoodSearchViewController.swift in Sources */,
 				1A9D0ABC1F190E60002F3F1B /* GroupBy.swift in Sources */,
+				1A9D0AC71F19269C002F3F1B /* README.md in Sources */,
 				1A9D0ABE1F190FF0002F3F1B /* OrderedDictionary.swift in Sources */,
 				1A95B72A1F190C9F00576F1B /* AppDelegate.swift in Sources */,
 				1A9D0AC41F1913C4002F3F1B /* NutrientStoreContainer.swift in Sources */,
