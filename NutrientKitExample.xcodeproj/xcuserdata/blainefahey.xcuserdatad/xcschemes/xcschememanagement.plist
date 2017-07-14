@@ -4,7 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>NutrientKitExample.xcscheme</key>
+		<key>NutrientKit.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>NutrientKitExample.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -13,6 +18,11 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>1A95B7251F190C9F00576F1B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1A95B73F1F190CA900576F1B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
